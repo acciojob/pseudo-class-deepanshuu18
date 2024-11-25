@@ -2,3 +2,8 @@
 .container{
 	margn:20px
 }
+
+.container:before{
+	color:#f00;
+	font-size:20px;
+}
