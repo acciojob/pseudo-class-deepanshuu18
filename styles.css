@@ -4,12 +4,12 @@
 	text-align:center;
 	position:relative;
 	background-color:#f5f5f5;
-	font-size:16px;
+	font-size:20px;
 	
 }
 
 #container:before{
-	 content: "Before content"; 
+	 content: "Before Element"; 
 	color:#f00;
 	font-size:20px;
 	position:absolute;
@@ -18,12 +18,12 @@
 	
 }
 #container:after{
-	 content: "After content"; 
+	 content: "After Element"; 
 	color:#f00;
 	font-size:20px;
 	position:absolute;
 	top:10px;
-	right:10px;
+	right:25px;
 	
 }
 
